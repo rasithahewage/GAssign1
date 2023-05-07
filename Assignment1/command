@@ -1,0 +1,32 @@
+    1  clear
+    2  ls
+    3  git init
+    4  sudo get-update
+    5  sudo apt-get update
+    6  clear
+    7  git init
+    8  ls
+    9  mk dir Assignment1
+   10  mkdir Assignment1
+   11  ls
+   12  cd assinment1
+   13  cd Assinment1
+   14  cd Assignment1
+   15  touch Code.txt Log.txt Output.txt
+   16  ls
+   17  git add Code.txt Output.txt
+   18  git status
+   19  git commit -m "commiting code and output"
+   20  git status
+   21  git remote add origin git@github.com:rasithahewage/GAssign1.git
+   22  git remote -v
+   23  git status
+   24  git branch
+   25  git push origin master 
+   26  git remote rm 
+   27  git remote remove git@github.com:rasithahewage/GAssign1.git
+   28  git remote remove origin
+   29  git remote -v
+   30  git remote add origin https://github.com/rasithahewage/GAssign1.git
+   31  git push origin master 
+   32  history
